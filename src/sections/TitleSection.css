@@ -1,0 +1,19 @@
+/* .first {
+    background-color: rgb(255, 255, 240);
+  } */
+
+.icons-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  margin: 10px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 1.2rem;
+}

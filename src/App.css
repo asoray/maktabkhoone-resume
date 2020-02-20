@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: "Varela Round", sans-serif;
+}
+
+img.artist {
+  position: fixed;
+  top: 14px;
+  left: 16px;
+  width: 30px;
+}
+
+img.artist:hover {
+  cursor: pointer;
+}

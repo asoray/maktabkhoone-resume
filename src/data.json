@@ -1,0 +1,82 @@
+{
+    "title": "Hello I'm Asoray",
+    "subtitle": "IT Manager | Network Administrator | Open-Source Enthusiast",
+    "links": {
+        "github": "https://asoray.github.io/",
+        "stackoverflow":"https://stackoverflow.com/story/asoray",
+        "linkedin":"https://linkedin.com/in/asoray"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "I am learning React.js Programming."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "img/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "img/javascript.png",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "img/html_css.png",
+                        "title": "HTML & CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "img/python.jpg",
+                        "title": "Python"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "img/mcse.png",
+                        "title": "MCSE"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "img/ccna.jpg",
+                        "title": "CCNA"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "img/vmware.jpg",
+                        "title": "Virtualization"
+                    }
+                }
+            ]
+        }
+
+    ],
+    "icons": {
+        "down": "img/down.png",
+        "up": "img/up.png"
+    },
+    "colors": ["black", "blue", "brown", "royalblue"],
+    "bgColors": ["#ffffff", "#fffff0", "#ffffdc", "#ffffc8"]
+
+}

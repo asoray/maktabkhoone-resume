@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7f23657-6728-4f59-bdcf-b63139985eea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="6.resume" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XiGH2rh1vQGsy2eFCCqp3lta2z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\_Programming\React JS\6. پروژه رزومه\6.resume\public\img" />
+      <recent name="E:\_Programming\React JS\6. پروژه رزومه\6.resume\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\_Programming\React JS\6. پروژه رزومه\6.resume\src\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7f23657-6728-4f59-bdcf-b63139985eea" name="Default Changelist" comment="" />
+      <created>1581521410093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581521410093</updated>
+      <workItem from="1581521420275" duration="208000" />
+      <workItem from="1581521642115" duration="145000" />
+      <workItem from="1581521800062" duration="33000" />
+      <workItem from="1581522097486" duration="54000" />
+      <workItem from="1581522160876" duration="56000" />
+      <workItem from="1581523061045" duration="42000" />
+      <workItem from="1581531671918" duration="5541000" />
+      <workItem from="1581614753761" duration="4183000" />
+      <workItem from="1581706953923" duration="6576000" />
+      <workItem from="1581874167498" duration="11696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581521454364">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1581521454364" />
+    <state x="243" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581617089081">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="243" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1581617089081" />
+    <state width="1515" height="173" key="GridCell.Tab.0.bottom" timestamp="1581886147953">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581886147953" />
+    <state width="1515" height="173" key="GridCell.Tab.0.center" timestamp="1581886147953">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581886147953" />
+    <state width="1515" height="173" key="GridCell.Tab.0.left" timestamp="1581886147953">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581886147953" />
+    <state width="1515" height="173" key="GridCell.Tab.0.right" timestamp="1581886147953">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="173" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581886147953" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1581874323699">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1581874323699" />
+    <state x="174" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1581617191450">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="174" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1581617191450" />
+  </component>
+</project>

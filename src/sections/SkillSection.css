@@ -1,0 +1,19 @@
+/* .third {
+    background-color: rgb(255, 255, 200);
+  } */
+
+.cards-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+#top {
+  display: block;
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  color: dodgerblue;
+  cursor: pointer;
+  background-color: rgb(255, 255, 200);
+}
